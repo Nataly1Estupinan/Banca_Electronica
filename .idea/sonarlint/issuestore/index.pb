@@ -9,11 +9,3 @@ a
 1src/main/bancolombia/negocio/ServicioCuentas.java,b\4\b4ca30e3e9505673490bf98362de8d4ce13fec2f
 ^
 .src/main/bancolombia/negocio/CuentaAhorro.java,1\2\12c1802fce88372558fcf3d1efdba2c923e9894c
-W
-'src/main/bancolombia/negocio/Banco.java,e\f\ef0cad427329312dfaa213ac1a700b45ca76c2f0
-Y
-)src/main/bancolombia/negocio/Cliente.java,e\e\ee5bb7761339eefedf7f617882d0475ba693bee9
-X
-(src/main/bancolombia/negocio/Cuenta.java,1\f\1f73dd18ef407557f43a7d76ab09f04aebe9c60a
-N
-src/main/bancolombia/Main.java,a\3\a32a0219c5e21e12e6cd099da1bb900912a1b07c
