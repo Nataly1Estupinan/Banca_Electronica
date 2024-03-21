@@ -1,0 +1,21 @@
+
+E
+java:S3740="/Provide the parametrized type for this generic.(ıİ½ü
+D
+java:S3740A"/Provide the parametrized type for this generic.(Ş˜¯
+†
+java:S1319="pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ıİ½ü
+|
+java:S1319A"gThe type of "cliente" should be an interface such as "List" rather than the implementation "ArrayList".(Ş˜¯
+R
+java:S4973y"<Strings and Boxed types should be compared using "equals()".(¤ßÉØ
+U	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(Ğˆ™H
+J
+java:S2175Z"4A "ArrayList<Cliente>" cannot contain a "ArrayList".(äÖ•ø
+N	java:S106["9Replace this use of System.out or System.err by a logger.(„¥‚
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ÙÔúô
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(¹Ãã
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(¾Œ¸ıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(…¥îÀúÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¾Œ¸ıÿÿÿÿ

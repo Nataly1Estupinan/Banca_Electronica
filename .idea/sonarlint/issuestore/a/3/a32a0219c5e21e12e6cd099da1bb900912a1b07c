@@ -1,0 +1,7 @@
+
+^
+java:S1192"HDefine a constant instead of duplicating this literal "MC09823" 4 times.(ýž¸™
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ž…á?
+V	java:S125"<This block of commented-out lines of code should be removed.(¥«¡Øüÿÿÿÿ
+^
+java:S1128"<Remove this unused import 'main.bancolombia.negocio.Cuenta'.(Š÷˜»ýÿÿÿÿ8íÕïÌä1

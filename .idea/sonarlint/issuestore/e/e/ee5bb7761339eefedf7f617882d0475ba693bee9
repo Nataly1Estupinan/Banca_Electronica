@@ -1,0 +1,13 @@
+
+†
+java:S1319T"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ğ“Œ‡
+}
+java:S1319X"gThe type of "cuentas" should be an interface such as "List" rather than the implementation "ArrayList".(¬äéƒ
+\	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(ş¤”¬ùÿÿÿÿ
+P
+java:S2175s"3A "ArrayList<Cuenta>" cannot contain a "ArrayList".(éùçé8¯çÖÌä1
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(Ë ûÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(Â¦Ğ§üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(°µ²“úÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(ìÿ´àıÿÿÿÿ
